@@ -8,7 +8,6 @@
 
 # Off-the-shelf Components
 
-M4 nuts  
 M4 bolts  
 M4 x 5 x 4 heat inserts  
 M6 bolts  
