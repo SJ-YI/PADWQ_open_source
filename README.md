@@ -12,3 +12,17 @@ M4 bolts
 M4 x 5 x 4 heat inserts  
 M6 bolts  
 M6 nuts  
+
+| Part | Quantity |
+| :---: | :---: | 
+|RMD-X8 Actuator |8 |
+|RMD-X8 Prp Actuator |4 | 
+|Lattepanda Alpha|1 | 
+|Jetson Xavier NX |1 | 
+|WIT WTC901C IMU |1 | 
+|XBOX 360 receiver|1 |  
+|CANable USB-CAN |4|   
+|RealSense D435|1|   
+|6s 4200mAh Battery |1 |   
+|RealSense D435|1|   
+|3s 5200mAh Battery |1|   
