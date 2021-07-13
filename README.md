@@ -6,3 +6,10 @@
 
 ![padwq_stl_table](https://user-images.githubusercontent.com/70566285/125389885-e0472000-e3dc-11eb-81fe-fc685181a80e.PNG)
 
+# Off-the-shelf Components
+
+M4 nut
+M4 bolt
+M4 x 5 x 4 heat inserts
+M6 bolt
+M6 nut
