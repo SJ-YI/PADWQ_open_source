@@ -26,3 +26,30 @@ M6 nuts
 |6s 4200mAh Battery |1 |   
 |RealSense D435|1|   
 |3s 5200mAh Battery |1|   
+
+# 4DOF_ARM
+![arm_pic](https://user-images.githubusercontent.com/70566285/203746873-6252d0ea-cd05-4b57-8300-03ccf579f7c5.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/70566285/203753267-ee48e471-b45c-4688-a294-11bfbcca312c.png)
+
+
+![image](https://user-images.githubusercontent.com/70566285/203746817-e28149db-d0d5-4d82-ba40-01a67378f871.png)
+
+
+# Off-the-shelf Components
+
+
+| Part | Quantity |
+| :---: | :---: | 
+|RMD-X8 Actuator |2 |
+|Dynamixel XM430-W350R|1 | 
+|FR12-H101K |1 | 
+|633mm 3GT Timing Belt |1 | 
+|내경:25, 외경:32, 폭: 4mm 볼베어링|1 |  
+|CANable USB-CAN |4|   
+
+
+
