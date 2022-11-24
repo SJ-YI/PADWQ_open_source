@@ -32,12 +32,10 @@ M6 nuts
 
 
 
+![image](https://user-images.githubusercontent.com/70566285/203766530-2cfb4f10-c95d-4cb6-9dd9-f6e7099e5129.png)
 
-![image](https://user-images.githubusercontent.com/70566285/203753267-ee48e471-b45c-4688-a294-11bfbcca312c.png)
 
-
-![image](https://user-images.githubusercontent.com/70566285/203746817-e28149db-d0d5-4d82-ba40-01a67378f871.png)
-
+![image](https://user-images.githubusercontent.com/70566285/203766556-ade8b1c7-9887-4989-ad39-cc6555256b59.png)
 
 
 ![image](https://user-images.githubusercontent.com/70566285/203762072-d65436d6-fad3-4b36-882a-6cb2064e1cfc.png)
