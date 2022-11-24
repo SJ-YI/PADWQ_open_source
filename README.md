@@ -39,6 +39,12 @@ M6 nuts
 ![image](https://user-images.githubusercontent.com/70566285/203746817-e28149db-d0d5-4d82-ba40-01a67378f871.png)
 
 
+
+![image](https://user-images.githubusercontent.com/70566285/203762072-d65436d6-fad3-4b36-882a-6cb2064e1cfc.png)
+
+
+
+
 # Off-the-shelf Components
 
 
@@ -49,7 +55,6 @@ M6 nuts
 |FR12-H101K |1 | 
 |633mm 3GT Timing Belt |1 | 
 |내경:25, 외경:32, 폭: 4mm 볼베어링|1 |  
-|CANable USB-CAN |4|   
 
 
 
