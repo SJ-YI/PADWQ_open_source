@@ -30,16 +30,13 @@ M6 nuts
 # 4DOF_ARM
 ![arm_pic](https://user-images.githubusercontent.com/70566285/203746873-6252d0ea-cd05-4b57-8300-03ccf579f7c5.png)
 
-
-
-![image](https://user-images.githubusercontent.com/70566285/203766530-2cfb4f10-c95d-4cb6-9dd9-f6e7099e5129.png)
+![image](https://user-images.githubusercontent.com/70566285/219383259-afc98eac-d1fe-4f68-b258-f33cad280fde.png)
 
 
 ![image](https://user-images.githubusercontent.com/70566285/203766556-ade8b1c7-9887-4989-ad39-cc6555256b59.png)
 
 
 ![image](https://user-images.githubusercontent.com/70566285/203762072-d65436d6-fad3-4b36-882a-6cb2064e1cfc.png)
-
 
 
 
