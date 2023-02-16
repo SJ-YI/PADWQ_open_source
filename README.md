@@ -49,7 +49,8 @@ M6 nuts
 | Part | Quantity |
 | :---: | :---: | 
 |RMD-X8 Actuator |2 |
-|Dynamixel XM430-W350R|1 | 
+|Dynamixel XM430-W350R|2 |
+|Dynamixel XM540-W270R|1 |
 |FR12-H101K |1 | 
 |633mm 3GT Timing Belt |1 | 
 |내경:25, 외경:32, 폭: 4mm 볼베어링|1 |  
